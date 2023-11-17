@@ -1,4 +1,8 @@
-### Hi there 👋
+### Bonjour et bienvenue!
+
+- Je suis actuellement en apprentissage à 42 Québec.
+- Je cherche à perfectionner le langage C, C++ et Python pour commencer.
+- Vous pouvez voir ici des projets provenant de l'école, ainsi que des projets personnels.
 
 <!--
 **araymond6/araymond6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
