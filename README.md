@@ -1,6 +1,6 @@
 ### Bonjour et bienvenue!
 
-- Je suis actuellement en apprentissage à 42 Québec.
+- Je suis actuellement en apprentissage à 42 Québec, une école créée spécifiquement pour la programmation.
 - Je cherche à perfectionner le langage C, C++ et Python pour commencer.
 - Vous pouvez voir ici des projets provenant de l'école, ainsi que des projets personnels.
 
