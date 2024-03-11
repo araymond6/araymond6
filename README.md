@@ -1,8 +1,14 @@
 ### Bonjour et bienvenue!
 
 - Je suis actuellement en apprentissage à 42 Québec, une école créée spécifiquement pour la programmation.
-- Je cherche à perfectionner le langage C, C++ et Python pour commencer.
+- Je cherche à perfectionner le langage C, C++ et Python et plus!
 - Vous pouvez voir ici des projets provenant de l'école, ainsi que des projets personnels.
+
+### Hello and welcome!
+
+- I am currently studying at 42 Québec, a school created specifically for programming.
+- I am looking to perfect myself in C, C++, Python and eventually more!
+- You can find on this page projects that come from the school, as well as personal projects.
 
 <!--
 **araymond6/araymond6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
