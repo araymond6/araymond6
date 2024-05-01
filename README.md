@@ -10,7 +10,7 @@
 - I am currently studying at 42 Québec, a school created specifically for programming.
 - I am looking to perfect myself in C, C++, Python and eventually more!
 - You can find on this page projects that come from the school, as well as personal projects.
-- I have a particular interest for video games, so I wish to enter the video game industry soon.
+- I have a particular interest for video games, so I wish to get an internship in games soon.
 
 <!--
 **araymond6/araymond6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
